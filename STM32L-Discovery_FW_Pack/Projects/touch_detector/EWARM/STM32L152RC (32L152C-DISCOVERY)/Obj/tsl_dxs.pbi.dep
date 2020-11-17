@@ -1,0 +1,51 @@
+tsl_dxs.pbi: \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Libraries\STMTouch_Driver\src\tsl_dxs.c \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STMTouch_Driver\inc\tsl_dxs.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STMTouch_Driver\inc/tsl_object.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STMTouch_Driver\inc/tsl_touchkey.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STMTouch_Driver\inc/tsl_acq.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STMTouch_Driver\inc/tsl_acq_stm32l1xx_sw.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\CMSIS\Core\Include\core_cm3.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\CMSIS\Core\Include/cmsis_version.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\CMSIS\Core\Include/cmsis_compiler.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\CMSIS\Core\Include\cmsis_iccarm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\iccarm_builtin.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\CMSIS\Core\Include/mpu_armv7.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\CMSIS\Device\ST\STM32L1xx\Include/system_stm32l1xx.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\inc\stm32l1xx_conf.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_crc.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_comp.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_dac.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_dbgmcu.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_dma.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_exti.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_flash.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_syscfg.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_i2c.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_iwdg.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_lcd.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_pwr.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rtc.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_spi.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_tim.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_usart.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_wwdg.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STM32L1xx_StdPeriph_Driver\inc\misc.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\inc\tsl_conf_stm32l1xx.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STMTouch_Driver\inc\tsl_check_config.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STMTouch_Driver\inc/tsl_check_config_stm32l1xx.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STMTouch_Driver\inc/tsl_types.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STMTouch_Driver\inc/tsl_time.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STMTouch_Driver\inc/tsl_time_stm32l1xx.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STMTouch_Driver\inc/tsl_linrot.h \
+  C:\Users\SuperHero\Desktop\Руабхи_Карим_ЛР3\STM32L-Discovery_FW_Pack\Projects\touch_detector\EWARM\..\..\..\libraries\STMTouch_Driver\inc\tsl_globals.h
